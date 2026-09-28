@@ -1,6 +1,8 @@
 streamlit>=1.35.0
 google-genai>=0.1.0
-chromadb>=0.4.24
+langchain-community>=0.2.0
+langchain-huggingface>=0.0.3
+langchain-core>=0.2.0
 faiss-cpu>=1.7.4
 sentence-transformers>=2.5.1
 pypdf>=4.1.0
