@@ -1,0 +1,11 @@
+---
+
+### 📄 `.gitignore`
+```text
+__pycache__/
+.venv/
+env/
+.streamlit/secrets.toml
+data/vectorstore/
+*.pyc
+.DS_Store
